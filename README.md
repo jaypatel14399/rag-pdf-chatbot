@@ -27,7 +27,7 @@ LLM Response: Retrieved context and query are passed to an LLM to generate a nat
 
 🖥️ Getting Started
 1. Clone the Repo
-git clone https://github.com/jay14399/rag-pdf-chatbot.git
+git clone https://github.com/jaypatel14399/rag-pdf-chatbot.git
 cd rag-pdf-chatbot
 2. Create and activate a virtual environment
 python3 -m venv venv
